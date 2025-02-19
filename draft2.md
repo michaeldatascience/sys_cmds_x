@@ -4,7 +4,7 @@
 
 ## **Overview**  
 
-This PR introduces a **WordPress CLI command-line tool** that synchronizes the **local team names database** with a **remote API-based pre-approved name list**, ensuring compliance with the specified **replacement behavior rules**.  
+This PR implements a **WP-CLI command-line tool** to synchronize **local and remote team names** while ensuring **correct replacement behavior** based on the specifications provided in Task 2. 
 
 ### **Core Objectives**  
 - **Efficient name synchronization logic**: Ensures correct handling of **outdated, missing, or newly approved names**.  
